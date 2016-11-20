@@ -1,6 +1,6 @@
 free-class-05-16
 ================
-# jookwak-GitStudy11192017
+# jookwak-GitStudy11202016
 ## Only a single-user testing purposes; 
 ### on the subject of 'Undo, Redo & Rebase' taught by
 ### Github Training & Guides of Webcast, Youtube, Jordan McCallough
