@@ -15,6 +15,9 @@ Topics to be reviewed:
   * --hard
   * --soft
   * --mixed
+  
 *Reflog
+
 *Revert
+
 *Rebase
