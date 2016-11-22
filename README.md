@@ -1,3 +1,5 @@
+# resolved jookwak11222016
+# HEAD
 free-class-05-16
 ================
 # jookwak-GitStudy11202016
@@ -21,3 +23,7 @@ Topics to be reviewed:
 *Revert
 
 *Rebase
+#=======
+# jookwak-GitStudy11192017
+Only a single-user testing purposes; study on the subject of 'Reset, Reflog, and Rebase' fr. Github Training &amp; Guides, Webcast
+#>>>>>>> parent of 2f89030... "Edit title, format text, add teacher name..."
